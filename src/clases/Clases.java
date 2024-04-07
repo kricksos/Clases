@@ -13,6 +13,7 @@ public class Clases {
         System.out.println("persona2 = " + persona2); //Imprime el valor de la referencia en memoria del objeto (hexadecimal)
         
         persona2.desplegarInformacion(); // Devuelve valores null en los atributos de nombre y apellido de la clase Persona
+        var pruebas = 5;
     }
 
 }
